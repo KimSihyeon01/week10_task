@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+KimSihyeon 202200762 information and communication engineering
+SongJuhan 202201840 information and communication engineering
+=======
 Leader: KimSihyeon 202200762 information and communication engineering
+>>>>>>> upstream/main
